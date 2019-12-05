@@ -1,11 +1,16 @@
 - name: C/C++
   percentage: 95
-  color: blue
+  color: danger 
 
 - name: C#
-  percentage: 70
+  percentage: 80
   color: 
 
 - name: Python
   percentage: 50
   color: danger
+
+
+- name: Shell/Bash
+  percentage: 70
+  color: secondary 

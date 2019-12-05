@@ -1,11 +1,7 @@
-- name: Networking / WIFI
-  percentage: 80
-  color: info
-
-- name: Linux
+- name: Unity Engine / Game Developement
   percentage: 90
-  color: success
+  color: info 
 
-- name: Unity Engine
-  percentage: 90
-  color: 
+- name: Blender / 3D Modeling
+  percentage: 60
+  color: light 
