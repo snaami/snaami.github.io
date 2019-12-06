@@ -25,8 +25,8 @@ If you like to know more about Sami continue to read my CV below or just use the
 
 **Download CV**
 <p>
-{% include elements/button.html link="site.url" text="Télécharger version FR" style="primary" %}
-{% include elements/button.html link="site.url" text="Download EN version" style="primary" %}
+{% include elements/button.html link=site.url text="Télécharger version FR" style="primary" %}
+{% include elements/button.html link=site.url text="Download EN version" style="primary" %}
 </p>
 
 <div class="row">
