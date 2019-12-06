@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 weight: 3
 ---
 
-# **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
 
