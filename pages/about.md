@@ -24,6 +24,15 @@ If you like to know more about Sami continue to read my CV below or just use the
 {% include about/skills.html title="" source=site.data.empty-skills %}  
 </div>
 
+** Download CV : **
+<div class="row">
+<p>
+	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download Fr</a><br>
+	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download En</a><br>
+</p>
+	
+</div>
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
