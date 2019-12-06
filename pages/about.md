@@ -26,8 +26,8 @@ If you like to know more about Sami continue to read my CV below or just use the
 
 **Download CV**
 <p>
-	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download Fr</a><br>
-	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download En</a><br>
+	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download Fr</a>
+	 <a class="github-button" href="site.url" data-icon="octicon-cloud-download" aria-label="Download CV FR">Download En</a>
 </p>
 
 <div class="row">
