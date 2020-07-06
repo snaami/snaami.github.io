@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 weight: 3
 ---
-
+{% include social.html %}
 
 Hi I am **{{ site.author.name }}**,<br>
 
