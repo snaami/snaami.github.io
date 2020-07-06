@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 weight: 3
 ---
-{% include social.html %}
 
-Hi I am **{{ site.author.name }}**,<br>
+
+Hi I am **{{ site.author.name }}**, {% include social.html %} <br>
 
 I'm a developer based in Paris, France ( yes you get it right ) I wrote code for a living.
 Generally speaking, I'm a C/C++ developer under the Linux operating system but on the other hand, I do other kinds of devs as a hobbyist especially in my free time using C# and Unity Engine to make exciting tiny mobile games ( my be they are not that great but they still wonderful to me).
